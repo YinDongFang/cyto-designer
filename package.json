@@ -1,0 +1,41 @@
+{
+  "name": "cyto-designer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-designer.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-designer/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-designer#readme",
+  "dependencies": {
+    "blob": "^0.1.0",
+    "is-array": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "nodemon": "^3.1.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "webpack": "^5.91.0",
+    "cyto-extensions": "^1.0.0",
+    "cyto-parser": "^1.0.0",
+    "cyto-network": "^1.0.0",
+    "cyto-core": "^1.0.0",
+    "cyto-manager": "^1.0.0",
+    "cyto-library": "^1.0.0",
+    "cyto-service": "^1.0.0",
+    "cyto-module": "^1.0.0",
+    "cyto-controller": "^1.0.0",
+    "cyto-framework": "^1.0.0"
+  }
+}
